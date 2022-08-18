@@ -1,6 +1,11 @@
-.DS_Store
-node_modules
-debug.json
-report.json
-report.js
-**/generated-components/**
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
